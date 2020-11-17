@@ -21,5 +21,6 @@
    },
 "emmet.extensionsPath": ".theia",
 "prettier.tabWidth": 4,
-"prettier.useTabs": true
+"prettier.useTabs": true,
+"prettier.jsxBracketSameLine": true
 }
